@@ -1,7 +1,7 @@
 
-<h2 align="center">Hi 👋, I'm Ajay Rathod</h2>
+<h2 align="center">Hola 👋, I'm Ajay Rathod</h2>
 
-* 🔭 I’m currently working on Portfolio Website
+* 🔭 I’m currently working on Portfolio Website and E2EE Chat Application
 * 🌱 I’m currently learning Next.JS, Browser Extensions
 * 💬 Ask me about Web Development
 * 📫 You can connect with me on [Twitter](https://twitter.com/ajayrathod__) and [LinkedIn](https://www.linkedin.com/in/ajaykrathod/)
